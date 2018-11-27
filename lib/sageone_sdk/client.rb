@@ -36,6 +36,7 @@ module SageoneSdk
       'fr' => 'https://api.columbus.sage.com/fr/sageone',
       'ie' => 'https://api.columbus.sage.com/uki/sageone',
       'uk' => 'https://api.columbus.sage.com/uki/sageone',
+      'gb' => 'https://api.columbus.sage.com/uki/sageone',
       'us' => 'https://api.columbus.sage.com/us/sageone'
     }.freeze
 
